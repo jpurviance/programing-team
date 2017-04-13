@@ -1,5 +1,5 @@
 Programming Team Offseason @ VT website. 
-The side code is in the gh-pages branch.
+The site code is in the gh-pages branch.
 
 Pure CSS Layout Examples
 ========================
